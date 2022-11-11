@@ -24,3 +24,4 @@ trk-euwest.tidaltv.com
 (^|\.)lonads055$
 (^|\.)mercury\.itv\.com$
 (^|\.)bilsyndication\.com$
+ar.prd.content.itv.com
